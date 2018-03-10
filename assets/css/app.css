@@ -1,0 +1,15 @@
+body {
+background: black;
+  color: white;
+}
+
+#bg {
+  height: 300px;
+  width: 300px;
+
+}
+
+#map{
+  height: 300px;
+  width: 100%;
+}
